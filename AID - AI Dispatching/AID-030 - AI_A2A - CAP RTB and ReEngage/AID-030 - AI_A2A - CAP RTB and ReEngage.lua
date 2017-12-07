@@ -42,7 +42,7 @@ A2ADispatcher:SetDefaultLandingNearAirbase()
 
 -- Blue attack simulation
 
-local Frequency = 300
+local Frequency = 150
 
 BlueSpawn2 = SPAWN
   :New( "RT NATO 2" )
